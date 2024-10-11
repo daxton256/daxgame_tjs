@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "three.js": "^0.77.1",
+    "vite": "^5.4.8"
+  }
+}
