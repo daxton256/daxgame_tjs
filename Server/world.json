@@ -1,0 +1,8 @@
+{
+    "startTime": 0,
+    "dayCycle": true,
+    "worldStructure" : [
+        {"id": "c847b4f82402072d", "type": "worldFloor", "model": "defualt1", "pos": {"x": 0, "y": 0, "z": 0}, "rot": {"x": 0, "y": 0, "z": 0}, "scale": {"x": 10, "y": 0.1, "z": 10}},
+        {"id": "9605f2bc71bceb17", "type": "building", "model": "building1", "pos": {"x": 20, "y": 0, "z": 0}, "rot": {"x": 0, "y": 0, "z": 0}, "scale": {"x": 1, "y": 1, "z": 1}}
+    ]
+}
